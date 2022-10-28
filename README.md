@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zubayer </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zubayer99&label=Profile%20views&color=0e75b6&style=flat" alt="zubayer99" /> </p>
 
-- 🌱 I’m currently learning **Python, Full Stack Framework**
-
 - 📫 How to reach me **xyzubayer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
