@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zubayer </h1>
+---
 [![](https://visitcount.itsvg.in/api?id=zubayer99&icon=5&color=3)](https://visitcount.itsvg.in)
 
 - 📫 How to reach me **xyzubayer@gmail.com**
@@ -19,5 +20,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zubayer99&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zubayer99&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=zubayer99&icon=5&color=3)](https://visitcount.itsvg.in)
+
