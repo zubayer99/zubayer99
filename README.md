@@ -2,7 +2,7 @@
 
 ![](https://visitcount.itsvg.in/api?id=zubayer99&icon=5&color=3)
 
-- 📫 How to reach me **xyzubayer@gmail.com**
+- 📫 **xyzubayer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
