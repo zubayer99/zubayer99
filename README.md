@@ -12,7 +12,7 @@
 <a href="https://discord.gg/nAqgKsFx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nAqgKsFx" height="30" width="40" /></a>
 </p>
 
-
+<br>
 
 ![](https://github-readme-stats.vercel.app/api?username=zubayer99&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zubayer99&theme=blue-green&hide_border=false)<br/>
